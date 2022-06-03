@@ -57,10 +57,6 @@ button {
   background-color: var(--color-pastelblue);
 }
 
-.header__toggler-btn:active {
-  /* transform: scaleX(0); */
-}
-
 .header__toggler-img {
   display: block;
   max-height: 20px; /* Test max-height */
