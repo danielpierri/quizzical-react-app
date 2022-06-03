@@ -50,7 +50,7 @@ button {
   cursor: pointer;
   margin: 1.5em;
   padding: .5em;
-  transition: all 50ms ease-in-out;
+  transition: all 100ms ease-in-out;
 }
 
 .header__toggler-btn:hover {
@@ -58,7 +58,7 @@ button {
 }
 
 .header__toggler-btn:active {
-  transform: scaleX(0);
+  /* transform: scaleX(0); */
 }
 
 .header__toggler-img {
